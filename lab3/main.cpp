@@ -25,9 +25,10 @@ void loadModules(QSplashScreen* psplash)
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    QSplashScreen splash(QPixmap("ded.jpg"));
+    QSplashScreen splash(QPixmap("C:\\Users\\Eugene\\Desktop\\Visual_Programming\\lab3\\123.jpg"));
     splash.show();
     SDIProgram_Flat_Zhukov w;
+    w.resize(800, 600);
     loadModules(&splash);
     splash.finish(&w);
     w.show();
