@@ -1,0 +1,21 @@
+QMainWindow {
+    background-color: #8a2be2; /* фиолетовый */
+    color: white; /* белый текст */
+}
+QMessageBox
+{
+    background-color: #9370db; /* средний фиолетовый */
+    color: white; /* белый текст */
+}
+QPushButton {
+    background-color: #9370db; /* средний фиолетовый */
+    color: white; /* белый текст */
+}
+
+QLabel {
+    color: white; /* фиолетовый */
+}
+
+QLineEdit {
+    background-color: #e6e6fa; /* светло-фиолетовый */
+}
