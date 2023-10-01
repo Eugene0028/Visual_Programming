@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Downloads/sibsutis/5 семестр/VirtualProgramming/labs/lab7/lab7/images/mouse.png</file>
+        <file>../../Downloads/sibsutis/5 семестр/VirtualProgramming/labs/lab7/lab7/images/window.png</file>
+    </qresource>
+</RCC>
