@@ -1,0 +1,46 @@
+
+
+QWidget
+{
+    background-color: #0e12f1;
+    color: white;
+}
+
+QMainWindow {
+    background-color: #8a2be2;
+    color: white;
+}
+/*
+QMessageBox
+{
+    background-color: #d7ffd6;
+    color: white;
+} */
+QPushButton {
+    background-color: #1fd33d;
+    color: rgb(15, 12, 207);
+}
+
+QLabel {
+    background-color: transparent;
+}
+
+QLabel[autoFillBackground="false"] {
+    background-color: transparent;
+}
+
+QTableView QAbstractItemView
+{
+    background-color: green;
+    color: black;
+}
+
+/*
+QLineEdit {
+    background-color: #e6e6fa;
+} */
+QTableView
+{
+    background-color: #ffffff;
+    color: black;
+}
